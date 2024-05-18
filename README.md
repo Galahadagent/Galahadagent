@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning about the game Mindustry[Developer: Anuken (for more information about the game Mindustry check out " mindustrygame.github.io " or " https://mindustrygame.github.io/ ")] but not in real life 💀.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ¯⁠\⁠_⁠(⁠ツ⁠)⁠_⁠/⁠¯
-- 😄 Pronouns: x5 5g
+- 😄 Pronouns: x 5 5 g (or X 5 5 G but I will satisfy to here the pronouns x 5 5 g :D though it's your choice ¯⁠\⁠_⁠(⁠ツ⁠)⁠_⁠/⁠¯ )
 - ⚡ Fun fact: do you know when I am bored by Mindustry I always re-installed it without saving my Mindustry gamedata 😅. 
 - 
 <!---

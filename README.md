@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Galahadagent
-- 👀 I’m interested in games,technology,space , space science,rocket science etc. Well sometimes I spend my time on drawing in phone 😅 -> here's the latest one ![1000037122](https://github.com/Galahadagent/Galahadagent/assets/161305918/13b30569-3cb1-4881-bd89-a18ca25252cd)
+- 👀 I’m interested in games,technology,space , space science,rocket science etc. Well sometimes I spend my time on drawing in phone 😅 -> here's the latest one ![1000037122](https://github.com/Galahadagent/Galahadagent/assets/161305918/13b30569-3cb1-4881-bd89-a18ca25252cd) for more information about my drawings check out " https://github.com/Galahadagent/Sketch-Repository/blob/main/README.md "
 
 - 🌱 I’m currently learning about the game Mindustry[Developer: Anuken (for more information about the game Mindustry check out " mindustrygame.github.io " or " https://mindustrygame.github.io/ ")] but not in real life 💀.
 - 💞️ I’m looking to collaborate on ...

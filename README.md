@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Galahadagent
-- 👀 I’m interested in games,technology,space , space science,rocket science etc. Well sometimes I spend my time on drawing in phone 😅 -> here's the latest one ![1000037500](https://github.com/Galahadagent/Galahadagent/assets/161305918/75e6dfca-be8f-41b9-84ed-65998ba5b84b)
+- 👀 I’m interested in games,technology,space , space science,rocket science etc. Well sometimes I spend my time on drawing on phone 😅 -> here's the latest one ![1000037500](https://github.com/Galahadagent/Galahadagent/assets/161305918/75e6dfca-be8f-41b9-84ed-65998ba5b84b)
 
  for more information about my drawings check out " https://github.com/Galahadagent/Sketch-Repository "
 

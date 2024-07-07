@@ -3,7 +3,7 @@
 
  for more information about my drawings check out " https://github.com/Galahadagent/Sketch-Repository "
 
-- 🌱 I’m currently learning about the game Mindustry[Developer: Anuken (for more information about the game Mindustry check out " mindustrygame.github.io " or " https://mindustrygame.github.io/ ")] and also I learn about GitHub but not in real life 💀.
+- 🌱 I’m currently learning about the game Mindustry {Developer: Anuken (for more information about the game Mindustry check out " mindustrygame.github.io " or " https://mindustrygame.github.io/ ")} and also I learn about GitHub but not in real life 💀.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ¯⁠\⁠_⁠(⁠ツ⁠)⁠_⁠/⁠¯
 - 😄 Pronouns: x 5 5 g or X 5 5 G (btw when you are trying to type this name just type ```x5 5g``` and when you want to say my name just say ```x 5 5 g``` or ```X 5 5 G``` )

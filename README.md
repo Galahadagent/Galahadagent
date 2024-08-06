@@ -8,7 +8,7 @@
 - 📫 How to reach me ¯⁠\⁠_⁠(⁠ツ⁠)⁠_⁠/⁠¯
 - 😄 Pronouns: x 5 5 g or X 5 5 G (btw when you are trying to type this name just type ```x5 5g``` and when you want to say my name just say ```x 5 5 g``` or ```X 5 5 G``` )
 - ⚡ Fun fact: do you know when I am bored by Mindustry I always re-installed it without saving my Mindustry gamedata 😅. 
-- 
+- 👋 bye
 <!---
 Galahadagent/Galahadagent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

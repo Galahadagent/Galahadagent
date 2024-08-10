@@ -16,8 +16,10 @@
 - ⚡ Fun fact: do you know when I am bored by Mindustry I always re-installed it without saving my Mindustry gamedata 😅. 
 
 # GitHub stats
-e
-
+![Galahadagent's Stats](https://github-readme-stats.vercel.app/api?username=Galahadagent&theme=cobalt&show_icons=true&hide_border=true&count_private=true)
+![Galahadagent's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Galahadagent&theme=cobalt&hide_border=true)
+![Galahadagent's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Galahadagent&theme=cobalt&show_icons=true&hide_border=true&layout=compact)
+These stats aren't giving the latest Stats and Streak , it is delayed for 1 last created commit.
 - 👋 bye
 <!---
 Galahadagent/Galahadagent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

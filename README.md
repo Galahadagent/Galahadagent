@@ -6,7 +6,9 @@
  for more information about my projects in mindustry check out [My projects in mindustry](https://github.com/Galahadagent/My-projects-in-mindustry)
  
  for more information about my Java codings check out [My Java repo](https://github.com/Galahadagent/Java-coding)
- 
+
+for more information about my youtube channel, open the [🚪 to my YouTube channel 🙂](https://youtube.com/@x5_5g)
+
  and if you still want more information about me just find it out by yourself.
 
 - 🌱 I’m currently learning about the game Mindustry {Developer: Anuken (for more information about the game Mindustry check out " mindustrygame.github.io " or " https://mindustrygame.github.io/ ")} and also I learn about GitHub but not in real life 💀.
